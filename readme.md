@@ -24,4 +24,4 @@ The version control is how you upload, public and sync your files through git to
 
 ### <ins>Markdown & Documentation</ins>
 
-Markdown is the language used to create codes. This is most often used to format plain text into HTML documents for webpages to read. You can use markdown to create headings, lists or add images to your document.
+Markdown is the language used to create codes. This is most often used to format plain text into html documents for webpages to read. You can use markdown to create headings, lists or add images to your document.
