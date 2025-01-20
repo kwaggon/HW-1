@@ -20,8 +20,8 @@ VS Code is a versitile desktop app where you can create codes for websites, web 
 
 ### <ins>Version Control, Git, & GitHub</ins>
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+The version control is how you upload, public and sync your files through git to github. You do this in the source control tab and press "commit" to publish these files, sync them or retrieve a new version of the file you're working on.
 
 ### <ins>Markdown & Documentation</ins>
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+Markdown is the language used to create codes. This is most often used to format plain text into html documents for webpages to read. You can use markdown to create headings, lists or add images to your document.
